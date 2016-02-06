@@ -1,4 +1,4 @@
-#Memory Game
+#Memory Game (for CodeSkulptor)
 
 import simplegui
 import random
